@@ -27,10 +27,10 @@ This project has multiple pages: Login, Sign Up, Dashboard (to view/like/comment
 ## Media
 
 Login Page Example:
-![Homepage](./assets/loginPage.png)  
+![Homepage](./public/assets/loginPage.png)  
 
 Homepage Example:
-![Homepage](./assets/homePage.png)
+![Homepage](./public/assets/homePage.png)
 
 ## Deployed Site
 
