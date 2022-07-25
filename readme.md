@@ -2,11 +2,11 @@
 
 # instagram_Clone
 
-### _This application is a (very basic) clone of Instagram built with React, Tailwind CSS and Firebase. I don't anticipate finishing until 6/15, so please check back!_
+### _This application is a (very basic) clone of Instagram built with React, Tailwind CSS and Firebase._
 
 This project uses React (custom hooks, useContext, useState, useEffect, useRef), Firebase (Firestore/auth), Tailwind CSS, LoadTest, Lighthouse, Vercel, React Testing Library and Cypress E2E Testing.
 
-This project has multiple pages: Login, Sign Up, Dashboard (to view/like/comment on photos), and User Profiles. The sign-in page connects to Firebase when a user tries to sign in, and when a user signs up, Firebase Auth is used to store the user in the Firebase Auth Database. 
+This project has multiple pages: Login, Sign Up, Dashboard (to view/like/comment on photos), and User Profiles. The sign-in page connects to Firebase when a user tries to sign in, and when a user signs up, Firebase Auth is used to store the user in the Firebase Auth Database.
 
 </div>
 
@@ -27,10 +27,10 @@ This project has multiple pages: Login, Sign Up, Dashboard (to view/like/comment
 ## Media
 
 Login Page Example:
-![Homepage](./public/assets/loginPage.png)  
+![Homepage](./public/assets/loginPage.png)
 
-Homepage Example:
-![Homepage](./public/assets/homePage.png)
+<!-- Homepage Example:
+![Homepage](./public/assets/homePage.png) -->
 
 ## Deployed Site
 
@@ -47,7 +47,7 @@ celestealexmoore@gmail.com.
 
 ## Project Status
 
-In progress
+In progress -- about halfway completed as of 7/25.
 
 ---
 
