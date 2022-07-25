@@ -496,8 +496,17 @@ video {
 .h-screen {
   height: 100vh;
 }
+.w-3\/5 {
+  width: 60%;
+}
+.w-2\/5 {
+  width: 40%;
+}
 .max-w-screen-md {
   max-width: 768px;
+}
+.flex-col {
+  flex-direction: column;
 }
 .items-center {
   align-items: center;
